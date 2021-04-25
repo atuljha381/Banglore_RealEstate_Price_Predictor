@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Banglore RealEstate Price Predictor</string>
+    <string name="image_real_estate_price_predictor">image Real estate price predictor</string>
+    <string name="as_this_is_just_a_prototype_app_we_dont_have_working_server_right_now_please_enter_the_url_of_server_on_which_prediction_model_is_deployed">as this is just a prototype app we dont have working server right now please enter the url of server on which prediction model is deployed</string>
+    <string name="http_serverurl">http://serverurl</string>
+    <string name="proceed_to_price_predictor">Proceed to Price Predictor</string>
+    <string name="change_server">Change Server</string>
+    <string name="location">Location</string>
+    <string name="enter_size">Enter Size</string>
+    <string name="predict_price">Predict Price</string>
+    <string name="bhk_s">BHK\'s</string>
+    <string name="bathrooms">Bathrooms</string>
+    <string name="_550_in_square_feet">550(in square feet)</string>
+    <string name="predict_price_again">Predict Price Again</string>
+    <string name="submit">Submit</string>
+</resources>
